@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 # @Date    : 3:00 2018/3/18
 # @Author  : kucece
-# @QQ      : 528446439
 # @github  : https://github.com/kucece
 import hashlib
 import datetime as date
